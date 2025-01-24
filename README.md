@@ -38,7 +38,7 @@ Celem testu było porównanie wydajności dwóch języków programowania – Pyt
 | **Zapis do pliku**  | 0,0161948  | 0,0358637 |
 
 ### Wykres
-![Wykres porównawczy](image.png)
+![Wykres porównawczy](wykres.png)
 
 ## Analiza wyników
 1. **Konwersja ze string na float**  
